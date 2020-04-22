@@ -26,7 +26,7 @@ export default class Canvas extends Vue{
 
 
         PIXI.loader
-        .add('spritesheet', require('../assets/spritesheet/tori.json'))
+        .add('spritesheet', '/assets/spritesheet/tori.json')
         .load(this.onAssetsLoaded);
 
         this.container = new PIXI.Container();

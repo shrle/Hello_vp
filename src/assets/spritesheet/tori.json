@@ -1,0 +1,76 @@
+{
+	"frames": {
+		"niwatori.png": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 800,
+				"h": 462
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 800,
+				"h": 462
+			},
+			"sourceSize": {
+				"w": 800,
+				"h": 462
+			}
+		},
+		"okame.png": {
+			"frame": {
+				"x": 0,
+				"y": 462,
+				"w": 800,
+				"h": 462
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 800,
+				"h": 462
+			},
+			"sourceSize": {
+				"w": 800,
+				"h": 462
+			}
+		},
+		"kozakura.png": {
+			"frame": {
+				"x": 0,
+				"y": 924,
+				"w": 800,
+				"h": 462
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 800,
+				"h": 462
+			},
+			"sourceSize": {
+				"w": 800,
+				"h": 462
+			}
+		}
+	},
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "tori.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 800,
+			"h": 1386
+		},
+		"scale": "1",
+		"smartupdate": "$TexturePacker:SmartUpdate:7abd80d110c3db20c611c401710aa284:7b7b789a40d9e26bbf6c280e3701e610:e389f8b5e49710696e59ba6871252f12$"
+	}
+}

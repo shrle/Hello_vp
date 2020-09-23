@@ -27,3 +27,22 @@ const router = new VueRouter({
 })
 
 export default router
+
+{
+  let name: string = "hogehoge";
+  name = "humuhumu";
+
+}
+
+{
+  let name: string = "takashi";
+  name = "hiroyuki";
+}
+
+
+function testA() {
+  var hello: string = "Hello A";
+}
+function testB() {
+  var hello: string = "Hello A";
+}

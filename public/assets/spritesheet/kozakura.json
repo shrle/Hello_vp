@@ -1,0 +1,56 @@
+{
+	"frames": {
+		"kozakura_body.png": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 800,
+				"h": 462
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 800,
+				"h": 462
+			},
+			"sourceSize": {
+				"w": 800,
+				"h": 462
+			}
+		},
+		"kozakura_leg.png": {
+			"frame": {
+				"x": 800,
+				"y": 0,
+				"w": 111,
+				"h": 80
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 111,
+				"h": 80
+			},
+			"sourceSize": {
+				"w": 111,
+				"h": 80
+			}
+		}
+	},
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "kozakura.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 911,
+			"h": 462
+		},
+		"scale": "1",
+		"smartupdate": "$TexturePacker:SmartUpdate:f31e4e16866c5a7af89d61ee47638e1a:7c02b290058bf243a34e6fe512fdfb49:592b53ce13f5a102a233dba4e2ede6ca$"
+	}
+}
